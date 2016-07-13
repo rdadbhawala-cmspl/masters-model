@@ -1,5 +1,6 @@
 package service
 
-type anotherPartner struct {
+// AnotherPartner structure for additional Partner details
+type AnotherPartner struct {
 
 }
