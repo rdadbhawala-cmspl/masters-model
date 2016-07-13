@@ -22,3 +22,7 @@ _testmain.go
 *.exe
 *.test
 *.prof
+/src/github.com/golang/lint
+/src/github.com/nsf/gocode
+/src/github.com/rogpeppe/godef
+/src/golang.org/x/tools
